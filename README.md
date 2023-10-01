@@ -7,7 +7,7 @@ A program to handle student data base.
 
 ## Features
 
-a) Create data base.
+a) Create Student data.
 
 b) View Data Base.
 
