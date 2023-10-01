@@ -26,7 +26,6 @@ g) Exit.
 Before running the Student-Record, ensure you have the following prerequisites:
 
 - **Bash**: The script is written in Bash and requires a Bash shell.
-- **lm-sensors**: To retrieve CPU temperature and fan speed information, you need to have `lm-sensors` installed and configured.
 
 ## Getting Started
 
