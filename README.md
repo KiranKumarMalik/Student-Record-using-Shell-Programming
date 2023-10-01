@@ -71,21 +71,39 @@ Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) and [contri
 
 ## Output screenshot
 
+Menus:
+
 ![Screenshot 2023-10-01 205123](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/4b8f61e5-cd68-4f7a-aef7-34b4a768cd2c)
+
+Creating a student record:
 
 ![Screenshot 2023-10-01 205304](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/70b12551-804b-4836-8678-c8515ac913b4)
 
+View the created student record:
+
 ![Screenshot 2023-10-01 205343](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/5074597f-ca7a-4ccb-b637-7aa7b4d6a48d)
+
+Insert an another new student record:
 
 ![Screenshot 2023-10-01 205456](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/2419cc64-7bdd-4c96-842a-51f5b4e4d6e9)
 
+Delete any record:
+
 ![Screenshot 2023-10-01 205535](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/4b24d47a-5f72-4181-aedc-05b9b5b0bf74)
+
+View all records after deletion:
 
 ![Screenshot 2023-10-01 205623](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/fb3390b7-864b-41dd-9aa1-3814c1e45924)
 
+Modify/update any record:
+
 ![Screenshot 2023-10-01 205750](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/9dd0000f-d285-4d99-9cf8-ad81a2e05de9)
 
+View the results of a particular student:
+
 ![Screenshot 2023-10-01 205828](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/f0211840-b576-4a2f-ad54-ab27b9c02e51)
+
+Exit:
 
 ![Screenshot 2023-10-01 205901](https://github.com/KiranKumarMalik/Student-Record-using-Shell-Programming/assets/81103548/d066577e-ffd5-4b95-8a7d-1e2da111174e)
 
